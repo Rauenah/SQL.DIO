@@ -151,8 +151,3 @@ ALTER TABLE dataset_vendas_dio
 - Tipos de colunas adequados para análise  
 - Datas e valores monetários em formato correto  
 - Estrutura pronta para consultas, relatórios e visualizações
-
-
-
-
-
