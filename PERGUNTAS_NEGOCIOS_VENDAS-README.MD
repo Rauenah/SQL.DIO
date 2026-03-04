@@ -207,5 +207,5 @@ Este repositório demonstra:
 - análises reais usadas em empresas  
 - organização profissional de consultas  
 
-É um ótimo material para entrevistas e para mostrar sua evolução como analista de dados.
+
 
