@@ -1,6 +1,6 @@
 -- 1. Consultar a estrutura da tabela (dicionário interno do MySQL)
 /*Esses comandos servem para ver como a tabela foi criada, quais colunas existem, tipos, tamanhos, se aceitam NULL, etc.*/
-
+dataset_vendas_dio
 SELECT *
 FROM information_schema.columns
 WHERE table_schema = 'excel_dio'
